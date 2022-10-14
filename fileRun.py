@@ -24,3 +24,4 @@ print("Number of words:", tFile.multiCrit())
 # print(f"Number of {w}: {tFile.countWord('who')}")
 # print("numebr of france:", nFrance)
 
+
